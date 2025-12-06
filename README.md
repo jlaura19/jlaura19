@@ -1,7 +1,7 @@
-👋 Hi, I’m Juliet Lauranne (@jlaura19)
+Hi, I’m Juliet Lauranne (@jlaura19)
 Welcome to my little corner of GitHub! I’m a Software Engineering student at USIU-Africa, passionate about building meaningful digital experiences and growing as a creator in tech.
 
-👀 I’m interested in
+ I’m interested in
 Mobile app development (Android – Java/Kotlin + Firebase)
 
 Backend development & databases
@@ -10,7 +10,7 @@ Creative tech — blending code with design and storytelling
 
 Open-source projects that make learning easier
 
-🌱 I’m currently learning
+ I’m currently learning
 Advanced Python
 
 Android development (Kotlin DSL + Firebase)
@@ -21,7 +21,7 @@ Data structures & algorithms
 
 UI/UX for mobile apps
 
-💞️ I’m looking to collaborate on
+ I’m looking to collaborate on
 Beginner-friendly open-source projects
 
 Android apps
@@ -37,7 +37,7 @@ LinkedIn:
 
 GitHub: You’re already here! 😄
 
-😄 Pronouns
+ Pronouns
 she/her
 
 ⚡ Fun fact
