@@ -29,14 +29,18 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jlaura19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlaura19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jlaura19&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlaura19&layout=compact&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="www.linkedin.com/in/juliet-lauranne" target="_blank">
+  <a href="https://www.linkedin.com/in/juliet-lauranne" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/c/bareandbecomingpodcast" target="_blank">
@@ -48,12 +52,6 @@
   <a href="mailto:julielauranne84@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Julie&count=3" alt="Spotify recently played"  />
 </div>
 
 <br/>
