@@ -1,49 +1,63 @@
-Hi, I’m Juliet Lauranne (@jlaura19)
-Welcome to my little corner of GitHub! I’m a Software Engineering student at USIU-Africa, passionate about building meaningful digital experiences and growing as a creator in tech.
+<h1 align="center">Hi there,👋</h1>
 
- I’m interested in
-Mobile app development (Android – Java/Kotlin + Firebase)
+<p align="center">
+  Just a dev trying to make the web work better. Focused on Backend Development, Cybersecurity, and solving fun problems. Always learning, always coding.
+</p>
 
-Backend development & databases
+<br/>
 
-Creative tech — blending code with design and storytelling
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
 
-Open-source projects that make learning easier
+<br/>
 
- I’m currently learning
-Advanced Python
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jlaura19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jlaura19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-Android development (Kotlin DSL + Firebase)
+<br/>
 
-Software engineering best practices
+<div align="center">
+  <a href="www.linkedin.com/in/juliet-lauranne" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/c/bareandbecomingpodcast" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/_julez_laura" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:julielauranne84@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-Data structures & algorithms
+<br/>
 
-UI/UX for mobile apps
+<div align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Julie&count=3" alt="Spotify recently played"  />
+</div>
 
- I’m looking to collaborate on
-Beginner-friendly open-source projects
+<br/>
 
-Android apps
-
-Python projects
-
-Tools or platforms that support creators and students
-
-📫 How to reach me
-Email: Julielauranne84@gmail.com
-
-LinkedIn: 
-
-GitHub: You’re already here! 😄
-
- Pronouns
-she/her
-
-⚡ Fun fact
-I absolutely love learning — the process of creating something from nothing is my favorite kind of magic. 
-
-<!---
-jlaura19/jlaura19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jlaura19/jlaura19/output/snake.svg" alt="Snake animation" />
+</div>
