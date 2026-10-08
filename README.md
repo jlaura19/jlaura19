@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,👋</h1>
+
 
 <p align="center">
   Just a dev trying to make the web work better. Focused on Backend Development, Cybersecurity, and solving fun problems. Always learning, always coding.
